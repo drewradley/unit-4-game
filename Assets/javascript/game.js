@@ -6,7 +6,7 @@ var targetNumber = 0;
   var losses=0 ;
   var imageCrystal = $("<img>");
   var crystalValue = 0;
-  var images = ["Assets/images/GemBlue.png","Assets/images/GemGreen.png","Assets/images/GemRed.png","Assets/images/GemYellow.png","Assets/images/GemPurple.png","Assets/images/GemWhite.png"]
+  var images = ["Assets/images/GemBlue.png","Assets/images/GemGreen.png","Assets/images/GemRed.PNG","Assets/images/GemYellow.png","Assets/images/GemPurple.png","Assets/images/GemWhite.png"]
   
   var tempArray =[0,0,0,0];
 
