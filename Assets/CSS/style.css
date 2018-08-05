@@ -1,0 +1,11 @@
+body{
+    margin:100px;
+  }
+  .container{
+   text-align: center;
+  }
+  .crystal-image {
+    width: 100px;
+    height: 100px;
+    padding:10px;
+  }
